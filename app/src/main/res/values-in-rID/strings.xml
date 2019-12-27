@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Profile</string>
-    <string name="comment">Komentar</string>
-    <string name="like">Suka</string>
-    <string name="update">Edit</string>
-    <string name="settings">Pengaturan</string>
+    <string name="following">Pengikut</string>
+    <string name="followers">Mengikuti</string>
+    <string name="profileakun">Profil</string>
+    <string name="posting">Mengunggah</string>
     <string name="home">Beranda</string>
     <string name="profile">Profil</string>
     <string name="people">Orang</string>
